@@ -16,7 +16,7 @@ margin: auto;
 margin-top: -15px;
 padding-top: 5px;
 }
-.light{
+.light {
   height: 95px;
   width: 95px;
   border-radius: 50%;
@@ -24,21 +24,21 @@ padding-top: 5px;
   margin: 15px;
   margin-top: 2px;
 }
-.red{
+.red {
   background-color: red;
 }
-.yellow{
+.yellow {
   background-color: yellow;
 }
-.green{
+.green {
   background-color: green;
 }
-.red:hover{
+.red:hover {
   box-shadow: 0px 0px 15px 20px rgba(255, 0, 0, .5);
 }
-.green:hover{
+.green:hover {
     box-shadow: 0px 0px 15px 20px rgba(0, 255, 21, 0.5);
 }
-.yellow:hover{
+.yellow:hover {
       box-shadow: 0px 0px 15px 20px rgba(255, 255, 0, 0.5);
 }
